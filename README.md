@@ -32,7 +32,7 @@ docker run -p 8080:8080 springboot-azure-api
 ## Triển khai
 Ứng dụng được deploy tự động lên Azure App Service qua GitHub Actions mỗi khi có commit mới trên nhánh `main`.
 
-**Live URL**: `https://<tên-webapp>.azurewebsites.net`
+**Live URL**: `https://springboot-azure-api-26972.azurewebsites.net`
 
 ## Endpoints
 | Method | Endpoint | Mô tả |
